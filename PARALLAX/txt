@@ -1,0 +1,221 @@
+# 🌄 Parallax Website
+
+A modern **Parallax Scrolling Website** built using HTML and CSS.  
+This project demonstrates smooth scrolling effects and layered backgrounds.
+
+---
+
+## 🚀 Live Demo
+
+<p align="center">
+  <a href="https://techie-akanksha.github.io/PARALLAX_WEB/" target="_blank">
+    <button style="background-color:black; color:white; padding:12px 24px; border:none; border-radius:6px; font-size:16px; cursor:pointer;">
+      View Live Demo
+    </button>
+  </a>
+</p>
+
+---
+
+## 📸 Preview
+
+Add your screenshots here
+
+
+---
+
+## 🛠️ Built With
+
+- HTML5  
+- CSS3  
+- Parallax Scrolling  
+
+---
+
+## ✨ Features
+
+- Smooth Parallax Scrolling  
+- Responsive Design  
+- Clean UI  
+- Beginner Friendly  
+
+---
+
+## 📂 Project Structure
+
+PARALLAX_WEB
+│── index.html
+│── style.css
+│── script.js
+│── resources
+
+
+---
+
+## 👩‍💻 Author
+
+**Akanksha**  
+GitHub: https://github.com/Techie-Akanksha
+
+---
+
+## ⭐ Show your support
+
+Give a ⭐ if you like this project!
+
+
+
+
+
+
+
+
+
+
+Learning to write a **good README** is actually very easy once you understand the **basic structure** and **Markdown syntax** 💡
+
+Here’s the simplest way to learn 👇
+
+# 🧠 Step 1 — Understand What a README Is
+
+A **README.md** file explains:
+
+* What your project is
+* How to use it
+* Live demo
+* Technologies used
+* Author info
+
+You write it using **Markdown**.
+
+---
+
+# 🧱 Step 2 — Learn Basic README Structure
+
+Most professional README files follow this structure:
+
+```md
+# Project Title
+
+## Description
+
+## Live Demo
+
+## Features
+
+## Tech Stack
+
+## Installation
+
+## Usage
+
+## Author
+```
+
+That's it. That's the core structure.
+
+---
+
+# 📝 Step 3 — Learn Basic Markdown Syntax
+
+### Headings
+
+```md
+# Big Heading
+## Medium Heading
+### Small Heading
+```
+
+### Bold Text
+
+```md
+**Bold Text**
+```
+
+### Bullet Points
+
+```md
+- Item 1
+- Item 2
+- Item 3
+```
+
+### Links
+
+```md
+[Live Demo](https://example.com)
+```
+
+### Images
+
+```md
+![Preview](image.png)
+```
+
+---
+
+# 🎯 Step 4 — Look at Good Examples
+
+Go to GitHub and open projects from:
+
+* Microsoft
+* Facebook
+* Google
+
+You'll learn fast by **copying structure**.
+
+---
+
+# 🚀 Step 5 — Start With Simple Template
+
+Use this beginner template:
+
+```md
+# Project Name
+
+## Live Demo
+[Click Here](your-link)
+
+## Features
+- Feature 1
+- Feature 2
+
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+
+## Author
+Your Name
+```
+
+---
+
+# ⚡ Pro Tips
+
+* Keep README **short and clean**
+* Use emojis (makes it attractive)
+* Add live demo (very important)
+* Add screenshots
+
+---
+
+# 🏆 Best Way to Learn (Recommended)
+
+Do this for **every project**:
+
+1. Create README
+2. Add live link
+3. Add features
+
+Within **5 projects**, you'll become very good at it.
+
+---
+
+If you'd like, I can also:
+
+* Give **README cheat sheet**
+* Show **professional README template**
+* Review your README
+
+Just tell me 👍
