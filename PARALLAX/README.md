@@ -1,6 +1,6 @@
-# ALVY - Responsive Web
+# 🌄 Parallax Website
 
-A modern **ALVY Website** built using HTML and CSS.  
+A modern **Parallax Scrolling Website** built using HTML and CSS.  
 This project demonstrates smooth scrolling effects and layered backgrounds.
 
 ---
@@ -8,7 +8,7 @@ This project demonstrates smooth scrolling effects and layered backgrounds.
 ## 🚀 Live Demo
 
 <p align="center">
-  <!-- <a href="https://techie-akanksha.github.io/ALVY--Responsive-Web/" target="_blank"> -->
+  <!-- <a href="https://techie-akanksha.github.io/PARALLAX_WEB/" target="_blank"> -->
     <img src="https://img.shields.io/badge/View%20Live%20Demo-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
